@@ -9,8 +9,6 @@ export function exportExcel(elements) {
         { header: 'Name', key: 'name', width: 32 },
         { header: 'Nationality', key: 'nationality', width: 15 },
         { header: 'Goals', key: 'goals', width: 10 },
-        { header: '', key: '', width: 15 },
-        { header: '', key: '', width: 15 },
     ];
 
     elements.forEach(element => {
