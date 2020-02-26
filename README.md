@@ -23,4 +23,4 @@ Para o desenvolvimento, você precisará apenas do Node.js e de um gerenciador d
     
  ## Resultado Final
  
-Será criado um arquivo xls dentro da pasta  **src/uploads/premier_league.xls** contendo todas os  2.362 jogadores da liga de futebol da Inglaterra e a quantidade de nacionalidades
+Será criado um arquivo xls dentro da pasta  **src/uploads/premier_league.xls** contendo todos os  2.362 jogadores da liga de futebol da Inglaterra e a quantidade de nacionalidades
