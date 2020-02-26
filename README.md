@@ -1,6 +1,6 @@
 # WebScraper Premier League
 
-Realizar um WebScraper para trazer os  2.362 jogadores da liga de futebol da Inglaterra e a quantidade de nacionalidades, utilizando o site https://www.premierleague.com/stats/top/players/goals?se=-1&cl=-1&iso=-1&po=-1?se=-1
+Realizar um WebScraper para trazer os  2.362 jogadores da liga de futebol da Inglaterra e a quantidade de nacionalidades, utilizando o site https://www.premierleague.com/
 
 ---
 ## Requisitos
